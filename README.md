@@ -14,7 +14,7 @@ Contents
 - Evaluation: Evaluating the accuracy of the ARIMA model using metrics and visual inspection of forecasts.
 - Examples: Real-world examples showcasing how ARIMA can be applied to various time series datasets.
 
-How to Use
+Usage
 - Clone this repository to your local machine using git clone.
 - Set up the required dependencies by installing the necessary Python libraries.
 - Explore the Jupyter Notebook in the repository to understand the different steps involved in ARIMA modeling.
@@ -26,5 +26,6 @@ Requirements
 - statsmodels
 - matplotlib
 
-Contributing
+Contributions
+
 Contributions to enhance and extend the functionality of this repository are welcome! Feel free to open issues for bug reports or feature requests.
